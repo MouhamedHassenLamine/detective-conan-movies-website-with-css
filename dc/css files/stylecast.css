@@ -1,0 +1,42 @@
+.cast~h1 {
+    font-family: arial;
+    color: rgb(0, 21, 90);
+}
+.cast{
+    font-size: 400%;
+}
+.inline{
+    display: inline-block;
+    margin-left: 1.1em;
+}
+main div{
+    background-image: url(./gre.jpg);
+    background-attachment: fixed;
+    padding-bottom: 10px;
+}
+.gosho{
+    font-size: 200%;
+    border-radius: 15px;
+    color: rgb(31, 0, 88);
+    text-decoration: none;
+    margin-left: 45%;
+}
+.gosho:hover{
+    font-size: 200%;
+    border-radius: 15px;
+    color: rgb(31, 0, 88);
+    text-decoration: underline;
+}
+p{
+    font-family: arial;
+    font-size: 150%;
+}
+.goshoimg{
+    border-radius: 5px;
+    box-shadow: 1px 1px 15px;
+}
+.bighead{
+    display: inline-block;
+    padding-left: 11%;
+    padding-right: 11%;
+}

@@ -1,0 +1,26 @@
+.images{
+    display: inline-block;
+    width: 1100px;
+    height: 600px;
+    background-image: url(./1.jpg);
+    background: center;
+    background-size: cover;
+    animation: imgan 20s infinite;
+    border: 5px solid white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 30px black;
+}
+@keyframes imgan{
+    0%{background-image: url(./1.jpg);}
+   16%{background-image: url(./1.jpg);}
+   24%{background-image: url(./1.jpg);}
+   32%{background-image: url(./2.png);}
+   40%{background-image: url(./2.png);}
+   48%{background-image: url(./2.png);}
+   56%{background-image: url(./2.png);}
+    64%{background-image:url(./3.png);}
+    72%{background-image:url(./3.png);}
+    80%{background-image:url(./3.png);}
+    88%{background-image:url(./3.png);}
+  100%{background-image: url(./1.jpg);}
+}

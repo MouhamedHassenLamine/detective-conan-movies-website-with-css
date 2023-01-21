@@ -1,0 +1,43 @@
+section{
+    background-image: url(./gre.jpg);
+    padding-bottom: 10px;
+}
+section>h1{
+    font-size: 400%;
+}
+.contactimg{
+    width: 6%;
+    margin-left: 21%;
+    display: inline-block;
+}
+.goodbay{
+    font-family: arial;
+    font-size: 200%;
+    padding-bottom: 50px;
+}
+.inline{
+    display: inline-block;
+    padding-left: 30px;
+}
+.email{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px; 
+}
+textarea{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+button{
+    display: block;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+.kaito{
+    display: inline-block;
+    width: 30%;
+    margin-left: 10em;
+}
+form{
+    display: inline-block;
+}
